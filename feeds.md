@@ -7,6 +7,7 @@ title: Feeds
 ###### CrimeWatch provides the following types of feeds:
 
 + __atom__ - http://en.wikipedia.org/wiki/Atom_(standard)
++ __dfp__ - https://support.google.com/dfp_premium/answer/2476004?hl=en&ref_topic=2475994&rd=1
 + __rss__ - http://en.wikipedia.org/wiki/RSS
 + __mrss__ - http://en.wikipedia.org/wiki/Media_RSS
 
