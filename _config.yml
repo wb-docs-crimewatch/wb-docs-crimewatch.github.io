@@ -15,7 +15,7 @@ redcarpet:
 
 
 # Setup
-title:       'CrimeWatch'
+title:       'Crime Watch'
 tagline:     'Documentation for CrimeWatch apps and projects.'
 description: 'This site contains documentation for the watching of crimes.  ಠ_ಠ'
 baseurl:     /
